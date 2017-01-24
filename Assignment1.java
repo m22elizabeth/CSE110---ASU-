@@ -1,6 +1,6 @@
 //Assignment 1
-//Name: Merin Jacob
-//Lab: D
+//Name: INSERT NAME 
+//Lab: A B C D
 //Description: This program prints how you can break a long string, when Java was first introduced, my name, hobbies,
 //and favorite movie.
 
@@ -26,8 +26,8 @@ public class Assignment1 {
         System.out.println();
         System.out.println("Java programming language first appeared in " + 1995 
                            + ".\n");
-        System.out.println("My name is Merin Jacob" + ".\n" + "My hobbies are dancing and painting" + ".\n" + 
-                           "My favorite movie is Price of Persia: Sands of Time");
+        System.out.println("My name is INSERT NAME" + ".\n" + "My hobbies are INSERT HOBBIES" + ".\n" + 
+                           "My favorite movie is INSERT MOVIE");
 	}
 
   }
