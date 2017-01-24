@@ -1,5 +1,5 @@
-    //Merin Jacob
-	//ASU ID: 1210678115
+    //INSERT NAME 
+	//ASU ID: 0000000000
 	//Lab: D 
 	// Pre-Lab Answers: 
 	//1: public class Kitten
